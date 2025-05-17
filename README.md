@@ -49,6 +49,20 @@ parking.h	Structure definitions and function declarations
 parking_data.txt	Stores active parked vehicle data
 parking_log.txt	Stores full session history
 
+## Sample Output
+
+### 1. Login and Vehicle Entry
+![Screenshot 1](screenshot1.png)
+
+### 2. Search and Exit
+![Screenshot 2](screenshot2.png)
+
+### 3.Show Available Slots
+![Screenshot 3](screenshot3.png)
+
+### 4. Report & Log History and Program Exit
+![Screenshot 4](screenshot4.png)
+
 👤 Author
 Anushka
 Student Project – 2025
