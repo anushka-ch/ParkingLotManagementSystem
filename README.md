@@ -52,4 +52,8 @@ parking_log.txt	Stores full session history
 👤 Author
 Anushka
 Student Project – 2025
+## License
+
+This project is *not licensed for reuse*.  
+Please do not copy, publish, or distribute this code without permission.
 
